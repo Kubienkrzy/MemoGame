@@ -1,0 +1,12 @@
+E:\app\MemoGame\bin\Release\MemoGame.exe.config
+E:\app\MemoGame\bin\Release\MemoGame.exe
+E:\app\MemoGame\bin\Release\MemoGame.pdb
+E:\app\MemoGame\obj\Release\MemoGame.csproj.AssemblyReference.cache
+E:\app\MemoGame\obj\Release\MemoGame.MemoGame.resources
+E:\app\MemoGame\obj\Release\MemoGame.Form2.resources
+E:\app\MemoGame\obj\Release\MemoGame.Form3.resources
+E:\app\MemoGame\obj\Release\MemoGame.Properties.Resources.resources
+E:\app\MemoGame\obj\Release\MemoGame.csproj.GenerateResource.cache
+E:\app\MemoGame\obj\Release\MemoGame.csproj.CoreCompileInputs.cache
+E:\app\MemoGame\obj\Release\MemoGame.exe
+E:\app\MemoGame\obj\Release\MemoGame.pdb
